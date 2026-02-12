@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# starseed
-A simple WhatsApp base bot built on Baileys
-=======
 # ✴️ Starseed
 
 Starseed is a simple WhatsApp bot designed for quick setup and efficient use. It offers essential features such as sticker creation, social media content downloading, basic group management tools, and various general-purpose utilities, all accessible directly through WhatsApp.
@@ -33,4 +29,3 @@ $ bash install.sh
 
 $ pm2 start app.config.cjs && pm2 logs bot
 ```
->>>>>>> 7316b99 (Unfinished Commit)
