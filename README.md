@@ -1,6 +1,9 @@
-# ✴️ Starseed
+# ✴️ Starseed (WIP)
 
 Starseed is a simple WhatsApp bot designed for quick setup and efficient use. It offers essential features such as sticker creation, social media content downloading, basic group management tools, and various general-purpose utilities, all accessible directly through WhatsApp.
+
+> [!CAUTION]
+This project is a Work in Progress (WIP). Some features may not work as expected.
 
 ### 📄 Requirements
 
@@ -13,9 +16,7 @@ Starseed is a simple WhatsApp bot designed for quick setup and efficient use. It
 ### 📥 Installation & Run
 
 > [!IMPORTANT]
-This project is a Work in Progress (WIP). Some features may not work as expected.
->
-> Check this repository regularly for updates. The project is still under development. If you encounter any issues, please open an issue. Thank you!
+Check this repository regularly for updates. The project is still under development. If you encounter any issues, please open an issue. Thank you!
 
 > [!NOTE]
 I’m not familiar with Windows because I primarily use Linux, so no Windows installation files are provided.
