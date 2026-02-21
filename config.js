@@ -1,6 +1,6 @@
 Object.assign(global, {
    // Owner name
-   ownerName: 'Lia Wynn',
+   ownerName: 'Sufffx',
 
    // Owner phone number
    ownerNumber: '081111111111',
@@ -12,7 +12,7 @@ Object.assign(global, {
    botNumber: '081111111111',
 
    // Daily limit
-   defaultLimit: 15,
+   defaultLimit: 205,
 
    // Pairing using code method (set to false to use QR)
    pairingCode: false,
